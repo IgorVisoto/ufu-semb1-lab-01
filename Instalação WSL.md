@@ -116,7 +116,7 @@ Para montar o sistema de arquivos do Linux abra uma nova janela do Windows
 Explorer e digite na barra de endereços ***\\\\wsl$***. Após pressionar a
 tecla **ENTER** você terá acesso ao sistema de arquivos do Linux.
 
-![Ubuntu terminal](./images/windows-wsl-mount.jpg "Ubuntu terminal")
+![image](https://github.com/IgorVisoto/ufu-semb1-lab-01/assets/88336949/63e5d3c3-1c75-42cd-91f3-855d1b3d17ff)
 
 ## 5. Configuração do WSL2 para utilização de dispositivos USB
 
@@ -155,7 +155,8 @@ utilizando o comando **uname -a**.
 foo@bar$ uname -a
 ```
 
-![Ubuntu terminal](images/ubuntu-uname.jpg "Ubuntu terminal")
+![image](https://github.com/IgorVisoto/ufu-semb1-lab-01/assets/88336949/b8073a24-907e-4a15-b3c3-f2bb62a1229b)
+
 
 Caso sua vesão do kernel seja inferior à requerida abra o *PowerShell* como
 administrador e execute o comando **wsl --update**.
