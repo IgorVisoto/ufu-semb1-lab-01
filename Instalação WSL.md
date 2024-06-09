@@ -47,7 +47,7 @@ PS > wsl --list --online
 
 
 Em seguida, instale a distribuição desejada usando **wsl --install -d <Distro>**.
-Neste curso será utilizada a distribuição **Ubuntu 20.04 LTS**. Caso opte por
+Neste curso será utilizada a distribuição **Ubuntu 24.04 LTS**. Caso opte por
 uma distribuição diferente será necessário adaptar as instruções fornecidas.
 
 ```console
