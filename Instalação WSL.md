@@ -182,10 +182,10 @@ Para facilitar a atualização do cliente USB/IP vamos utilizar a ferramenta
 versões do cliente USB/IP de forma transparente.
 
 ```console
-foo@bar$ apt list -a linux-tools-generic
+igorvisoto@E1-BR-2Z3WD93:~$ apt list -a linux-tools-generic
 Listing... Done
-linux-tools-generic/focal-updates,focal-security,now 5.4.0.113.117 amd64 [installed]
-linux-tools-generic/focal 5.4.0.26.32 amd64
+linux-tools-generic/noble-updates,noble-security,now 6.8.0-35.35 amd64 [installed]
+linux-tools-generic/noble 6.8.0-31.31 amd64
 foo@bar$ sudo update-alternatives --install /usr/local/bin/usbip usbip /usr/lib/linux-tools/5.4.0-113-generic/usbip 20
 ```
 
