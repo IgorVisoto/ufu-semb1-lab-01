@@ -43,7 +43,7 @@ digite o comando
 ```console
 PS > wsl --list --online
 ```
-![image](https://github.com/IgorVisoto/ufu-semb1-lab-01/assets/88336949/a2fcd474-69fb-4e84-b349-d770d56d58f5)
+![image])
 
 Em seguida, instale a distribuição desejada usando **wsl --install -d <Distro>**.
 Neste curso será utilizada a distribuição **Ubuntu 20.04 LTS**. Caso opte por
